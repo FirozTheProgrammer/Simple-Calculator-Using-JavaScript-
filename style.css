@@ -2,6 +2,8 @@ body {
   font-family: "Open Sans", sans-serif;
   background-color: black;
   background-image: url(./image/67893d8635879212caf58ac6d01e8c73.jpg);
+  height: 100vh;
+  overflow: hidden;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
